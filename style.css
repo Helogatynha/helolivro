@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(241, 253, 239);
+}
+form label{
+    display:block;
+    font-size: 20;
+    color: rgb(0, 0, 0);
+    margin: 0 0 10px;
+}
+.copyright{
+    background-color: rgb(170, 243, 152);
+}
