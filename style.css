@@ -26,3 +26,12 @@ form label{
   background-color: rgb(8, 51, 15);
   transform: scale(1.2);
 }
+.input-padrao{
+    display: block;
+    margin: 0 0 20px;
+    padding: 20px 25px;
+    width: 50%;
+}
+.checkbox{
+    margin: 20px 0;
+}
