@@ -1,7 +1,11 @@
 body{
     background-color: rgb(241, 253, 239);
-}
-form label{
+} 
+ main{
+    width: 940px;
+    margin: 0 auto;
+ }
+form label, form legend{
     display:block;
     font-size: 20;
     color: rgb(0, 0, 0);
@@ -9,6 +13,8 @@ form label{
 }
 .copyright{
     background-color: rgb(163, 250, 141);
+    font-size: 13px;
+    margin: 20px 0 0;
 }
 .enviar {
     width:40%;
@@ -25,6 +31,10 @@ form label{
 .enviar:hover{
   background-color: rgb(8, 51, 15);
   transform: scale(1.2);
+}
+footer {
+    text-align: center;
+    padding: 40px 0;
 }
 .input-padrao{
     display: block;
